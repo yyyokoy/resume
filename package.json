@@ -1,0 +1,14 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuiyokoyama/resume.git",
+  "author": "yokoyama <yokoyama@ferix.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "@proofdict/textlint-rule-proofdict": "^3.1.2",
+    "textlint": "^12.1.0",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0"
+  }
+}
