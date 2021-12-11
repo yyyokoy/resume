@@ -11,6 +11,6 @@ jobs:
       - uses: actions/setup-node@v2-beta
         with:
           node-version: '14'
-      - run: npm install
+      - run: yarn install
       - name: lint text
-        run: npm run lint
+        run: yarn textlint docs/README.md
