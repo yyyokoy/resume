@@ -178,3 +178,6 @@ dist
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/yarn,macos,node
+
+# production
+/build
