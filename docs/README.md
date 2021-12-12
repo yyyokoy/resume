@@ -25,7 +25,7 @@
     - AWS サーバレスでのアプリケーション設計
     - lambda(Python), API Gateway での API 開発・設計
     - Dynamo DB 設計
-    - serverless framework での IaaC 構築
+    - serverless framework での IaC 構築
     - コードレビュー
 
 #### 食事画像から塩分を推定するアプリケーション開発
