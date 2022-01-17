@@ -97,10 +97,9 @@
 - ディープラーニング G 検定
 - TOEIC L&R 735 点
 - AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
 - AWS Certified Cloud Practitioner
 - 気象予報士学科試験(一般・専門)合格
-
-- AWS Certified Developer(2021 年 12 月受験予定)
 
 ---
 (EOF)
