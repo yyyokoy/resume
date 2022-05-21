@@ -100,6 +100,7 @@
 - AWS Certified Developer - Associate
 - AWS Certified SysOps Administrator - Associate
 - AWS Certified Security - Specialty
+- AWS Certified Machine Learning - Specialty
 - AWS Certified Cloud Practitioner
 - 気象予報士学科試験(一般・専門)合格
 
