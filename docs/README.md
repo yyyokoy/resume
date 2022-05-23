@@ -96,12 +96,13 @@
 - 情報セキュリティマネジメント
 - ディープラーニング G 検定
 - TOEIC L&R 735 点
-- AWS Certified Solutions Architect - Associate
-- AWS Certified Developer - Associate
-- AWS Certified SysOps Administrator - Associate
-- AWS Certified Security - Specialty
-- AWS Certified Machine Learning - Specialty
-- AWS Certified Cloud Practitioner
+- AWS Certified: https://www.credly.com/users/yui-yokoyama/badges
+    - Solutions Architect - Associate
+    - Developer - Associate
+    - SysOps Administrator - Associate
+    - Security - Specialty
+    - Machine Learning - Specialty
+    - Cloud Practitioner
 - 気象予報士学科試験(一般・専門)合格
 
 ---
