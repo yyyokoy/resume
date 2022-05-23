@@ -96,7 +96,7 @@
 - 情報セキュリティマネジメント
 - ディープラーニング G 検定
 - TOEIC L&R 735 点
-- AWS Certified: https://www.credly.com/users/yui-yokoyama/badges
+- AWS Certified: [https://www.credly.com/users/yui-yokoyama/badges](https://www.credly.com/users/yui-yokoyama/badges)
     - Solutions Architect - Associate
     - Developer - Associate
     - SysOps Administrator - Associate
