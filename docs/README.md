@@ -86,10 +86,6 @@
 - SIGNATE Weather Challenge：雲画像予測 11 位 (銀メダル)
   - [https://signate.jp/users/36504/history](https://signate.jp/users/36504/history)
 
-### Qiita
-- 主に社内の勉強会の活動の振り返りをまとめた記事を投稿
-    - [https://qiita.com/yyyokoy](https://qiita.com/yyyokoy)
-
 ## 保有資格など
 - 簿記 3 級
 - 基本情報技術者
@@ -102,6 +98,9 @@
     - SysOps Administrator - Associate
     - Security - Specialty
     - Machine Learning - Specialty
+    - Advanced Networking - Specialty
+    - Database - Specialty
+    - Data Analytics - Specialty
     - Cloud Practitioner
 - 気象予報士学科試験(一般・専門)合格
 
