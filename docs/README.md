@@ -87,12 +87,13 @@
   - [https://signate.jp/users/36504/history](https://signate.jp/users/36504/history)
 
 ## 保有資格など
-- 簿記 3 級
-- 基本情報技術者
-- 情報セキュリティマネジメント
+- 日商簿記 3 級
+- IPA 基本情報技術者
+- IPA 情報セキュリティマネジメント
 - ディープラーニング G 検定
 - TOEIC L&R 735 点
 - AWS Certified: [https://www.credly.com/users/yui-yokoyama/badges](https://www.credly.com/users/yui-yokoyama/badges)
+    - Certified DevOps Engineer – Professional
     - Solutions Architect - Associate
     - Developer - Associate
     - SysOps Administrator - Associate
