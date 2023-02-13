@@ -7,7 +7,7 @@
 - 学歴 : 慶應義塾大学経済学部卒 (2016/03)
 
 ## 職務経歴 (概要)
-- ソフトウェア研究開発 (4 年)
+- ソフトウェア研究開発 (5 年)
     - データエンジニア
     - web エンジニア
     - プロジェクトリーダー
@@ -15,7 +15,11 @@
 - SI 営業 (2 年)
 
 ## 職務経歴 (現職)
-### 株式会社フェリックス(2018/03〜)
+### 株式会社オルツ(2023/01~)
+プリセールスを担当。
+
+## 職務経歴 (前職以前)
+### 株式会社フェリックス(2018/03〜2022/12)
 機械学習に興味があったためエンジニア未経験で転職。受託研究開発が中心の会社。
 
 #### 新規サービスアプリケーション開発(受託)
@@ -68,7 +72,6 @@
     - AWS EC2 上への Deep Learning 実行環境構築
     - Django での POC アプリ開発
 
-## 職務経歴 (前職以前)
 ### 株式会社NECネクサソリューションズ (2016/03〜2018/02)
 新卒入社。アウトソーシングサービスを扱う営業事業部に配属。
 
@@ -93,7 +96,8 @@
 - ディープラーニング G 検定
 - TOEIC L&R 735 点
 - AWS Certified: [https://www.credly.com/users/yui-yokoyama/badges](https://www.credly.com/users/yui-yokoyama/badges)
-    - Certified DevOps Engineer – Professional
+    - Solutions Architect – Professional
+    - DevOps Engineer – Professional
     - Solutions Architect - Associate
     - Developer - Associate
     - SysOps Administrator - Associate
