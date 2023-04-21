@@ -90,7 +90,7 @@
 - IPA
     - IT パスポート試験
     - 情報セキュリティマネジメント試験
-    - 基本情報技術者試験ん
+    - 基本情報技術者試験
     - 情報処理安全確保支援士試験
 - AWS Certified: [https://www.credly.com/users/yui-yokoyama/badges](https://www.credly.com/users/yui-yokoyama/badges)
     - Solutions Architect – Professional
