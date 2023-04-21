@@ -15,11 +15,7 @@
 - SI 営業 (2 年)
 
 ## 職務経歴 (現職)
-### 株式会社オルツ(2023/01~)
-プリセールスを担当。
-
-## 職務経歴 (前職以前)
-### 株式会社フェリックス(2018/03〜2022/12)
+### 株式会社フェリックス(2018/03〜)
 機械学習に興味があったためエンジニア未経験で転職。受託研究開発が中心の会社。
 
 #### 新規サービスアプリケーション開発(受託)
@@ -72,6 +68,7 @@
     - AWS EC2 上への Deep Learning 実行環境構築
     - Django での POC アプリ開発
 
+## 職務経歴 (前職以前)
 ### 株式会社NECネクサソリューションズ (2016/03〜2018/02)
 新卒入社。アウトソーシングサービスを扱う営業事業部に配属。
 
@@ -90,11 +87,11 @@
   - [https://signate.jp/users/36504/history](https://signate.jp/users/36504/history)
 
 ## 保有資格など
-- 日商簿記 3 級
-- IPA 基本情報技術者
-- IPA 情報セキュリティマネジメント
-- ディープラーニング G 検定
-- TOEIC L&R 735 点
+- IPA
+    - IT パスポート試験
+    - 情報セキュリティマネジメント試験
+    - 基本情報技術者試験ん
+    - 情報処理安全確保支援士試験
 - AWS Certified: [https://www.credly.com/users/yui-yokoyama/badges](https://www.credly.com/users/yui-yokoyama/badges)
     - Solutions Architect – Professional
     - DevOps Engineer – Professional
@@ -107,6 +104,10 @@
     - Database - Specialty
     - Data Analytics - Specialty
     - Cloud Practitioner
+- JDLA ディープラーニング G 検定
+- TOEIC L&R 735 点
+- 日商簿記 3 級
+- 色彩検定 3 級
 - 気象予報士学科試験(一般・専門)合格
 
 ---
